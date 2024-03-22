@@ -32,11 +32,13 @@ Borrow = A’B
 ## Truthtable:
 ##Half adder
 
-![alt text](halfadd.png)
+![image](https://github.com/barathsubramani/HALF_ADDER_SUBTRACTOR/assets/118542617/c1f57551-27c7-4ec5-90a5-2345ed6bfb92)
+
 
 ##Half subtractor
 
-![alt text](<half sub.png>)
+![image](https://github.com/barathsubramani/HALF_ADDER_SUBTRACTOR/assets/118542617/ff9834c7-24fe-4879-bacd-87fb6f0af70a)
+
 
 ## Procedure:
 
